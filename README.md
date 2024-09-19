@@ -22,4 +22,5 @@ To become a professional web developer, creating innovative and user-friendly we
 
 ## 📫 Contact Me
 - Email: phamthanhtruc1994vn@gmail.com
+- Linkedin: https://www.linkedin.com/in/thanh-tr%C3%BAc-ph%E1%BA%A1m-79124432a/
 - GitHub: [[Your GitHub Profile]](https://github.com/PhamThanhTruc-IT/PhamThanhTruc-IT)
